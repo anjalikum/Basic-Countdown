@@ -1,0 +1,36 @@
+body {
+  background-image: url(https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/happy-birthday-background_X1iSgb_SB_PM.jpg);
+  /* display: flex;
+  justify-content: center;
+  text-align: center; */
+  font-family: 'Josefin Slab', serif;
+  background-attachment: fixed;
+  font-size: 25px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: solid 5px;
+  width: 830px;
+  border-radius: 1000px;
+  margin-top: 19%;
+  margin-left: 20%;
+  background-color: #D5ACE8;
+    font-family: 'Courgette', cursive;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  border-radius: 1000px;
+  border: solid 5px;
+  width: 300px;
+  height: 40px;
+  font-size: 33px;
+  text-align: center;
+  margin-left: 38%;
+  background-color:#BBCAFF;
+  font-family: 'Lobster Two', cursive;
+}
